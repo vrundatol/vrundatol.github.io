@@ -3,9 +3,11 @@ title: "Vrunda Tol"
 image: media/headshot.jpg
 toc: false
 about: 
-  template: jolla
-  image-shape: round
+  template: trestles
+  image-shape: rectangle
   image-width: 17em
 ---
 
-Vrunda graduated from BITS-Pilani, India, in 2019 with a dual degree in Chemistry and Electrical Engineering. After graduating, she started as a structural design engineer at Intel, Bangalore, where she worked on optimizing power and frequency in processor design. Here, she also learned about the challenges the semiconductor industry faces in using natural resources for sustainable manufacturing, managing electronic waste, and increasing product energy efficiency. Inspired to solve these problems she deeply cares about, Vrunda decided to shift her career and pursue Environmental Science and Management at Bren. She plans to specialize in Business and Sustainability and Energy and Climate, focusing on Environmental Innovation and Entrepreneurship. She is particularly interested in learning about circularity, Life Cycle Analysis, renewable energy transitions, and carbon emissions management. Her goal after the completion of the program is to work on developing sustainable solutions in the energy and semiconductor technology sectors.
+Hi, Welcome to my website!
+
+I am a sustainability professional, passionate about solving climate challenges particularly driving the clean energy transition, decarbonization, and circularity in semiconductor tech and EV battery industries. Starting my career with a background in chemistry and electrical and electronics engineering from BITS-Pilani, I navigated to environmental sustainability with a Master's in Environmental Science and Management at the Bren School of Environment, UC Santa Barbara. I learn about new climate solutions and career skills everyday at the Bren community and the larger sustainability network. Join me in my journey as I share my learning outcomes in this space!
