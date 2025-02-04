@@ -6,6 +6,15 @@ about:
   template: trestles
   image-shape: rectangle
   image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/vrunda-tol-801021b7/
+    - text: GitHub
+      href: https://github.com/vrundatol
+    - text: UCSB Email
+      href: mailto:vrundatol@bren.ucsb.edu
+    - text: Personal Email
+      href: mailto:vrundatol@gmail.com
 ---
 
 Hi there, Welcome to my website!
