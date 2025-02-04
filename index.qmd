@@ -11,14 +11,13 @@ about:
       href: https://www.linkedin.com/in/vrunda-tol-801021b7/
     - text: GitHub
       href: https://github.com/vrundatol
-    - text: UCSB Email
+    - text: Email
       href: mailto:vrundatol@bren.ucsb.edu
-    - text: Personal Email
-      href: mailto:vrundatol@gmail.com
 ---
 
 Hi there, Welcome to my website!
 
-I'm Vrunda (pronounced as Vroo-n-thaa, /vrʊn-ðɑː/). I am enthusiastic about learning, innovating, and communicating about environmental solutions with a strong focus on clean energy transition, sustainable supply chains, and decarbonization.
+I'm Vrunda (pronounced as vroo-n-thaa, /vrʊn-ðɑː/). 
+I am enthusiastic about learning, innovating, and communicating about environmental solutions with a strong focus on clean energy transition, sustainable supply chains, and decarbonization.
 
 
