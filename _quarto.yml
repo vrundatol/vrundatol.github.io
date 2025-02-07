@@ -4,19 +4,34 @@ project:
 
 website:
   title: "Vrunda Tol"
+  favicon: media/favicon.png
   navbar:
-    left:
+    # title: false
+    # logo: media/logo_large.png
+    # logo-alt: "Alt text for logo"
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: media/Tol_Vrunda_Resume.pdf
+        text: Resume
+
+  page-footer:
+    background: light # or `dark`
+    left: Copyright 2025, Vrunda Tol
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/samanthacsik/samanthacsik.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+
 
 format:
   html:
     theme: 
-      light: minty
-      dark: solar
-    css: styles.css
+      - solar
+      - styles.css
+#      light: minty
+#      dark: solar
+#    css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

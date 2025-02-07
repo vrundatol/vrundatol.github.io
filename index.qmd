@@ -7,11 +7,14 @@ about:
   image-shape: rectangle
   image-width: 17em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/vrunda-tol-801021b7/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/vrundatol
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:vrundatol@bren.ucsb.edu
 ---
 

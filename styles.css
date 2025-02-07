@@ -1,1 +1,24 @@
 /* css styles */
+/* Resize logo in the navbar */
+.navbar-brand img {
+    height: auto !important; /* Adjust as needed */
+    width: 1000 px !important; /* Maintain aspect ratio */
+}
+
+// define Sass vars 
+$darkblue: #053660;
+$teal: #147C91;
+$darkgray: #333333;
+
+// use vars in CSS rules (we'll learn more about how to write CSS soon!) 
+h1 {
+  font-color: $darkblue;
+}
+
+.button-styling {
+  background: $teal;
+  color: $darkblue; 
+  border-color: $darkgray;
+}
+
+/*-- scss:defaults --*/
