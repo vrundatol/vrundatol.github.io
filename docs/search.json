@@ -1,16 +1,233 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Portfolio",
     "section": "",
-    "text": "I am a sustainability professional, passionate about solving climate challenges, particularly driving the clean energy transition, decarbonization, and circularity in semiconductor tech and EV battery industries. Starting my career with a background in chemistry and electrical and electronics engineering from BITS-Pilani, I navigated to environmental sustainability with a Master’s in Environmental Science and Management at the Bren School of Environment, UC Santa Barbara.\nI learn about new climate solutions and career skills everyday at the Bren community and the larger sustainability network. Join me in my journey as I share my learning outcomes in this space!"
+    "text": "Lithium: Biogeochemical Implications\n\n\n\nEnergy\n\n\nCritical Minerals\n\n\nCircularity\n\n\n\nExtraction, Use, and Recycling\n\n\n\nVrunda Tol, Chelsea Sanford\n\n\nMar 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDirect Air Capture\n\n\n\nClimate Change\n\n\nCarbon Removal\n\n\n\nAnalysis on the feasibility of DAC\n\n\n\nVrunda Tol, Chelsea Sanford\n\n\nFeb 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Clean Energy Revolution\n\n\n\nEnergy\n\n\n\nAn Ideal Simplistic Vision for the U.S.\n\n\n\nVrunda Tol\n\n\nDec 4, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFast Tech\n\n\n\nIndustrial Ecology\n\n\nE-Waste\n\n\nCircularity\n\n\n\nE-Waste 101\n\n\n\nVrunda Tol\n\n\nNov 12, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Vrunda Tol",
     "section": "",
-    "text": "Hi there, Welcome to my website!\nI’m Vrunda (pronounced as vroo-n-thaa, /vrʊn-ðɑː/).\nI am enthusiastic about learning, innovating, and communicating about environmental solutions with a strong focus on clean energy transition, sustainable supply chains, and decarbonization. Stay tuned as I update my learnings in this space!"
+    "text": "Hi there, Welcome to my website!\nI am a sustainability professional passionate about solving climate challenges. Learning, Innovating, Communicating, and Collaborating on environmental solutions excites me, with a strong leaning toward clean energy transition, sustainable supply chains, and decarbonization. Stay tuned as I update my learnings in this space!"
+  },
+  {
+    "objectID": "posts/2024-03-15-lithium/index.html",
+    "href": "posts/2024-03-15-lithium/index.html",
+    "title": "Lithium: Biogeochemical Implications",
+    "section": "",
+    "text": "Lithium is a trace element that has emerged as a pivotal player in the next energy transition as the world grapples with climate change. Lithium is electrochemically active, having the highest redox potential value and the highest specific heat capacity of any solid element. These unique properties make it an essential component of our bodies, diets, pharmaceuticals, and more popularly the modern electric vehicle revolution. While there are many benefits to lithium, there are still risks, known and unknown, associated with it."
+  },
+  {
+    "objectID": "posts/2024-03-15-lithium/index.html#introduction",
+    "href": "posts/2024-03-15-lithium/index.html#introduction",
+    "title": "Lithium: Biogeochemical Implications",
+    "section": "",
+    "text": "Lithium is a trace element that has emerged as a pivotal player in the next energy transition as the world grapples with climate change. Lithium is electrochemically active, having the highest redox potential value and the highest specific heat capacity of any solid element. These unique properties make it an essential component of our bodies, diets, pharmaceuticals, and more popularly the modern electric vehicle revolution. While there are many benefits to lithium, there are still risks, known and unknown, associated with it."
+  },
+  {
+    "objectID": "posts/2024-03-15-lithium/index.html#biogeochemical-cycle-disruption",
+    "href": "posts/2024-03-15-lithium/index.html#biogeochemical-cycle-disruption",
+    "title": "Lithium: Biogeochemical Implications",
+    "section": "Biogeochemical Cycle Disruption",
+    "text": "Biogeochemical Cycle Disruption\nLithium extraction and mining have skyrocketed as the world looks for solutions to the climate crisis. This element usually cycles at around 100 million g/year but is now being mobilized at &gt;1,000 million g/year. This is a nearly 500% increase in recent years and we can only expect this number to increase with increasing battery demands. A major cause of human emissions of Li to the atmosphere is through coal combustion."
+  },
+  {
+    "objectID": "posts/2024-03-15-lithium/index.html#ecological-disruption",
+    "href": "posts/2024-03-15-lithium/index.html#ecological-disruption",
+    "title": "Lithium: Biogeochemical Implications",
+    "section": "Ecological Disruption",
+    "text": "Ecological Disruption\nLithium is available primarily in the brines or related evaporites (66%), in pegmatites (26%) and sedimentary rocks (8%). (Gruber et al., 2011). The conventional methods for lithium mining are through brine evaporation and extraction in open pits from hard rock or clay deposits. The brine deposits are found in the ‘Lithium Triangle’ of Argentina, Chile, and Bolivia. Brine evaporation requires a large amount of water. It has been estimated that 1 ton of Li strip-mined in Chile was estimated to consume 540 tonnes of water and release 5 tonnes of CO2. Evaporation ponds from salt flats, known as salares, deplete water from aquifers in already arid environments. Large hard rock mines are found in Australia. The hard rock mines leak chemicals into water systems causing harm to local ecosystems and indigenous communities in these areas. New proposed lithium mines in Nevada, by a company called Ioneer, are displacing the native endangered buckwheat species."
+  },
+  {
+    "objectID": "posts/2024-03-15-lithium/index.html#new-extraction-technologies",
+    "href": "posts/2024-03-15-lithium/index.html#new-extraction-technologies",
+    "title": "Lithium: Biogeochemical Implications",
+    "section": "New Extraction Technologies",
+    "text": "New Extraction Technologies\nA new technology of Direct Lithium Extraction (DLE) is being developed to tackle the environmental impacts of conventional methods. It involves adsorption and ion exchange, that use chemical and physical processes to directly remove lithium from brine. An example is in the Imperial Valley in southern California, where large lithium deposits dissolved in brine deep below ground on the southern shore of the Salton Sea. This hot brine is extracted through geothermal wells to generate electricity at 11 power plants and then re-injected back underground. This requires lesser land area for evaporation, lesser water displacement, net energy usage (MIT, 2024), and nearly double the lithium production than current practices (Nicolaci et al., 2023)."
+  },
+  {
+    "objectID": "posts/2024-03-15-lithium/index.html#recycling-and-alternate-solutions",
+    "href": "posts/2024-03-15-lithium/index.html#recycling-and-alternate-solutions",
+    "title": "Lithium: Biogeochemical Implications",
+    "section": "Recycling and Alternate Solutions",
+    "text": "Recycling and Alternate Solutions\nAnother solution to move away from the impacts of lithium extraction is to increase recycling. It has been proven that creating lithium-ion batteries from recycled battery materials can be up to 48% less in cost and create 54% less environmental impact (Gonzales-Calienes, 2023). Companies such as Redwood Materials in Nevada and Li-Cycle in Toronto are developing hydrometallurgical and pyrometallurgical technologies to recover minerals from Lithium-ion batteries while minimizing greenhouse gas emissions and other impacts.\nSecondary solutions to reduce overall dependence on lithium include the use of alternate batteries such as sodium-ion for stationary storage. Although sodium-ion batteries are less efficient than lithium and much heavier, their raw material sodium is present abundantly with fewer biogeochemical implications (Gagnon, 2024). Another emerging technology is the iron-air battery which uses a water-based electrolyte and stores energy using reversible rusting. (Asmare et al, 2024)"
+  },
+  {
+    "objectID": "posts/2024-03-15-lithium/index.html#behavioral-changes",
+    "href": "posts/2024-03-15-lithium/index.html#behavioral-changes",
+    "title": "Lithium: Biogeochemical Implications",
+    "section": "Behavioral Changes",
+    "text": "Behavioral Changes\nApart from technological solutions, the simplest and straightforward way is to build a “clean energy economy that is less reliant on lithium,” says Caroline White-Nockleby (MIT, 2024). By building a more robust public transportation system and encouraging individuals to bike and walk, we can reduce lithium demand by 18-92% (Riofrancos et al., 2023). Such behavior changes in developed countries can reduce lithium dependency substantially."
+  },
+  {
+    "objectID": "posts/2024-03-15-lithium/index.html#barriers",
+    "href": "posts/2024-03-15-lithium/index.html#barriers",
+    "title": "Lithium: Biogeochemical Implications",
+    "section": "Barriers",
+    "text": "Barriers\nThere are several social and economic barriers associated with each of these solutions. The largest barrier to the new DLE technology is the cost. Capital costs for DLE can be double the amount of the traditional lithium extraction methods, although it has a higher recovery rate of 70-90% compared to 30-40% for ponds (Nicolaci et al., 2023). While foreign companies own the machinery and equipment and may not want to invest in more expensive technologies, reducing the land area impact would give lands back, which have cultural and other economic benefits for the locals (MIT, 2024).\nLithium recycling also poses several barriers economically and environmentally. Current lithium recycling processes are extremely limited because of retrieval efficiency. In the European Union in 2012, less than 1% of lithium was recycled (UNEP data). A mass balance analysis reveals that pyrometallurgical lithium recycling has impacts in air pollution, hydrogen fluoride emissions (Fu et al., 2018), wastewater, and solid waste, while the hydrometallurgical route generates high volumes of wastewater (Swain, 2017). In addition, the health risks and effects of long-term high exposure are unknown (Nicolaci et al., 2023). Recycling solutions can only be effective if these impacts are managed. The barrier with alternate batteries is their scalability and energy density as compared to LIB. Reducing overall energy usage seems a straightforward pathway, but behavior change is arguably the most difficult change to make."
+  },
+  {
+    "objectID": "posts/2024-03-15-lithium/index.html#conclusion",
+    "href": "posts/2024-03-15-lithium/index.html#conclusion",
+    "title": "Lithium: Biogeochemical Implications",
+    "section": "Conclusion",
+    "text": "Conclusion\nA combination of behavioral, technological, and economical changes are required to manage the currently high mobilization of Lithium. Investments in DLE technologies and improved lithium recycling, research on alternate battery solutions, policy changes to boost public transportation, and regulations to ensure the safety and health of local communities near lithium mines are some of the steps that need to be taken to address this issue.\nCitations: 1. Schlesinger, W., Klein, E., Wang, Z., & Vengosh, A. (2021, July 16). Global biogeochemical cycle of lithium. AGU. https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GB006999.\n2. Fu, J., Zhang, H., Zhang, A., & Jiang, G. (2018, June 4). E-waste recycling in China: A challenging field. | semantic scholar. ACS Publications. https://www.semanticscholar.org/paper/E-waste-Recycling-in-China:-A-Challenging-Field.-Fu-Zhang/bca469fdd893bbba8c912c1b995dcc224680a014.\n3. Gagnon, S. (2024). It’s elemental. It’s Elemental - The Element Sodium. https://education.jlab.org/itselemental/ele011.html\n4. Gonzales-Calienes, G., Kannangara, M., & Bensebaa, F. (2023, July 11). Economic and environmental viability of lithium-ion battery recycling-case study in two Canadian regions with different energy mixes. MDPI. https://www.mdpi.com/2313-0105/9/7/375\n5. MIT. (2024, February 12). How is lithium mined?. MIT Climate Portal. https://climate.mit.edu/ask-mit/how-lithium-mined.\n6. Nicolaci, H., Young, P., Snowdon, N., & Rai, A. (2023, April 27). Direct lithium extraction: A potential game changing … Goldman Sachs. https://www.goldmansachs.com/intelligence/pages/gs-research/direct-lithium-extraction/report.pdf\n7. Riofrancos, T. (2023, January). More Mobility Less Mining. Climate and Community. https://www.climateandcommunity.org/more-mobility-less-mining\n8. Global Lithium Availability - Gruber - 2011 - Journal of Industrial … (n.d.-b). https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1530-9290.2011.00359.x\n9. Swain, B. (2017). Recovery and recycling of lithium: A review. Separation and Purification Technology, 172, 388-403\n10. ScienceDaily. (2023, December 13). Resource-efficient and climate-friendly with sodium-ion batteries. ScienceDaily. https://www.sciencedaily.com/releases/2023/12/231213112602.htm#:~:text=One%20option%20is%20a%20sodium,running%20out%20of%20raw%20materials.\n11. Vera, M. L., Torres, W. R., Galli, C. I., Chagnes, A., & Flexer, V. (2023). Environmental impact of direct lithium extraction from brines. Nature Reviews Earth & Environment, 4(3), 149-165.\n12. Asmare, M., Zegeye, M., & Ketema, A. (2024). Advancement of electrically rechargeable metal-air batteries for future mobility. Energy Reports, 11, 1199-1211."
+  },
+  {
+    "objectID": "posts/2023-11-12-ewaste/index.html",
+    "href": "posts/2023-11-12-ewaste/index.html",
+    "title": "Fast Tech",
+    "section": "",
+    "text": "Fast tech is the new trend after fast fashion in the 21st century. Mobile phones, tablets, and laptops are replaced every 2-4 years to make way for advanced models. Companies race to bring impressive features to the market, tempting customers to upgrade their old devices. The pile of discarded devices thus keeps increasing. Bigger electronic equipment like refrigerators, ACs, washing machines, printers, ovens, vacuum cleaners, etc., have longer life spans but pose environmental threats when discarded. All these products need proper end-of-life management for sustainable future use."
+  },
+  {
+    "objectID": "posts/2023-11-12-ewaste/index.html#introduction",
+    "href": "posts/2023-11-12-ewaste/index.html#introduction",
+    "title": "Fast Tech",
+    "section": "",
+    "text": "Fast tech is the new trend after fast fashion in the 21st century. Mobile phones, tablets, and laptops are replaced every 2-4 years to make way for advanced models. Companies race to bring impressive features to the market, tempting customers to upgrade their old devices. The pile of discarded devices thus keeps increasing. Bigger electronic equipment like refrigerators, ACs, washing machines, printers, ovens, vacuum cleaners, etc., have longer life spans but pose environmental threats when discarded. All these products need proper end-of-life management for sustainable future use."
+  },
+  {
+    "objectID": "posts/2023-11-12-ewaste/index.html#problem",
+    "href": "posts/2023-11-12-ewaste/index.html#problem",
+    "title": "Fast Tech",
+    "section": "Problem",
+    "text": "Problem\nUN’s Global E-waste Report2 records 53.6 million metric tonnes of global electronic waste in 2019. This could cover the entire city of Washington, D.C., if spread across a height of 1m. Only 17.4% of this waste was collected and recycled. The rest either ended up in landfills or was traded and informally recycled in developing countries, exposing workers to hazardous and carcinogenic substances such as mercury, lead, and cadmium. E-waste in landfills contaminates soil and groundwater, putting food supply systems and water sources at risk. In addition to the glaring environmental risks, e-waste needs to be recycled to extract the precious metals that would otherwise need to be mined at a higher cost from a depleting non-renewable supply."
+  },
+  {
+    "objectID": "posts/2023-11-12-ewaste/index.html#recycling",
+    "href": "posts/2023-11-12-ewaste/index.html#recycling",
+    "title": "Fast Tech",
+    "section": "Recycling",
+    "text": "Recycling\nRecycling the raw materials from the e-waste is beneficial for the environment and the economy, but its execution faces challenges. There is a lack of regulation in collection and processing in many countries that can’t afford the set-up and maintenance costs of the recycling infrastructure. A huge challenge is to develop and scale technologies for safe disassembly, sorting, and contaminant-free material regeneration. Electronic products are difficult to dismantle because of their complex designs and compositions. The recycling practices need to be cost-effective, energy-efficient, and non-hazardous to be implemented widely.4"
+  },
+  {
+    "objectID": "posts/2023-11-12-ewaste/index.html#disproportionate-impacts",
+    "href": "posts/2023-11-12-ewaste/index.html#disproportionate-impacts",
+    "title": "Fast Tech",
+    "section": "Disproportionate Impacts",
+    "text": "Disproportionate Impacts\nDeveloped countries export up to 20% of their e-waste to developing countries where workers adopt crude methods to recover and sell the valuable metals. In Nigeria, the law prohibits methods like burning plastic cables and acid leaching. However, due to minimal enforcement and low awareness of the health risks, the pickers continue to expose themselves to toxins that cause respiratory and dermatological problems, eye infections, and neurodevelopmental issues.5 The impacts of global e-waste are thus faced disproportionately by countries. The Americas and Europe account for 13.3 and 16.2 kg of e-waste per capita, more than double the generation of Asia and Africa.2 It is inequitable that the rich consume more luxurious electronic products and leave the waste to their poorer neighbors. The affected communities bear the environmental and health risks; and consequences of a problem they did not cause."
+  },
+  {
+    "objectID": "posts/2023-11-12-ewaste/index.html#policy-solutions",
+    "href": "posts/2023-11-12-ewaste/index.html#policy-solutions",
+    "title": "Fast Tech",
+    "section": "Policy Solutions",
+    "text": "Policy Solutions\nAll national governments need to strictly regulate their e-waste trade, and be responsible for setting up sophisticated recycling infrastructure in collaboration with technology experts. Policies must look at e-waste management as an opportunity to not just solve the raw-material scarcity crisis and prevent the detrimental health impacts but also to provide equal technology access to all. If the products are designed to be repairable, an outdated product for one could prove to be useful to another. The life span of each product is thus increased and the amount of e-waste goes down. In 2020, the EU voted for “right to repair” rules for consumer electric goods requiring all new products sold to be repairable for up to 10 years.6 In this way, governments can shape industry strategies."
+  },
+  {
+    "objectID": "posts/2023-11-12-ewaste/index.html#industry-solutions",
+    "href": "posts/2023-11-12-ewaste/index.html#industry-solutions",
+    "title": "Fast Tech",
+    "section": "Industry Solutions",
+    "text": "Industry Solutions\nIndustries need a paradigm shift in their design approach to achieve repairability and recyclability. The focus should be on enabling these services instead of upgrading the products every couple of years. Companies like Fairphone set the example with their programs where they repair 40% of the returned phones for reuse and safely recycle 60% to extract valuable metals. Industries also need to explore ways to manufacture new-generation products with recycled materials without compromising on quality. Management has the power to influence customer behavior with marketing strategies and cost incentives in take-back and leasing schemes."
+  },
+  {
+    "objectID": "posts/2023-11-12-ewaste/index.html#consumer-behavior",
+    "href": "posts/2023-11-12-ewaste/index.html#consumer-behavior",
+    "title": "Fast Tech",
+    "section": "Consumer Behavior",
+    "text": "Consumer Behavior\nConsumers must be conscious of the ramifications of e-waste in their purchasing choices, product use, and end-of-life disposal. None of the industry and policy initiatives work unless the consumer complies. Consumers can also, in turn influence the industry and the governments by demanding sustainable products and services. A coherence of efforts in technology, management, policy, and consumer behavior can solve the e-waste management issue and create an equitable technology future.\nCitations:\n\nSingh, Narendra, and Oladele A. Ogunseitan. \"Disentangling the worldwide web of e-waste and climate change co-benefits.\" Circular Economy 1.2 (2022): 100011.\nForti, Vanessa, et al. “The Global E-waste Monitor 2020 – Quantities, flows, and the circular economy potential”  Sustainable Cycles Programme, United Nations Institute for Training and Research. The Global E-waste Monitor 2020\nLiu, Kang, et al. \"A global perspective on e-waste recycling.\" Circular Economy (2023): 100028.\nShahabuddin, M., et al. \"A review of the recent development, challenges, and opportunities of electronic waste (e-waste).\" International Journal of Environmental Science and Technology 20.4 (2023): 4513-4520.\nEloise Touni. “Dark skies, bright future: overcoming Nigeria’s e-waste epidemic” Dark skies, bright future: overcoming Nigeria’s e-waste epidemic"
+  },
+  {
+    "objectID": "posts/2023-12-04-energy/index.html",
+    "href": "posts/2023-12-04-energy/index.html",
+    "title": "A Clean Energy Revolution",
+    "section": "",
+    "text": "The current energy sources distribution in the US is 83% fossil fuels, 8% renewables, 8% nuclear, and 1% hydro. The environmental impacts of energy production and use of fossil fuels (coal, oil, and gas) are much higher than the renewables in GHG emissions, pollution, and land-use changes. We need to increase the share of renewable sources (solar and wind) for a clean energy transition because of their lower environmental impacts. The figure below compares energy demands and all renewable energy supplies per day per person in Britain. Assuming a similar trend to be followed in the US, it is possible to rely on renewable energy sources for around 90% of our energy demands. For the remaining 10%, we should rely on nuclear and hydroenergy because of their lower environmental impacts than fossil fuels. The figure counts offshore wind energy in Britain, which could be substituted to some extent with more solar PV energy in the US. The use of biomass should also be lower than what is shown in the figure because of its impacts on land-use changes."
+  },
+  {
+    "objectID": "posts/2023-12-04-energy/index.html#technological-feasibility",
+    "href": "posts/2023-12-04-energy/index.html#technological-feasibility",
+    "title": "A Clean Energy Revolution",
+    "section": "Technological feasibility",
+    "text": "Technological feasibility\nCurrently the conversion efficiency of solar PV is 10-20% and is limited to 31% by the Shockley Queisser limit. 1For wind, the conversion efficiency lies between 20-40%. We need more efficient conversion technologies with lower pollution impacts during use-phase and end-of-life for the clean energy transition. Tidal, wave, and offshore wind energy technologies could also catch up in the coming years."
+  },
+  {
+    "objectID": "posts/2023-12-04-energy/index.html#operational-feasibility",
+    "href": "posts/2023-12-04-energy/index.html#operational-feasibility",
+    "title": "A Clean Energy Revolution",
+    "section": "Operational feasibility",
+    "text": "Operational feasibility\nThere need to be significant changes in the energy grid infrastructure to shift the sources more toward solar and wind energy. Moving away from the coal and oil power plants is challenging but not impossible as historically shown in the reduced coal energy usage in the US. Wind and solar farms pose operational issues in land space and enough wind/sun availability, but US has an advantage of high wind areas in the central areas and high solar radiation in the south-west. With increasing technological efficiency and energy transportation, we should be able to work around these challenges."
+  },
+  {
+    "objectID": "posts/2023-12-04-energy/index.html#social-feasibility",
+    "href": "posts/2023-12-04-energy/index.html#social-feasibility",
+    "title": "A Clean Energy Revolution",
+    "section": "Social feasibility",
+    "text": "Social feasibility\nThe workforce must adapt to new skill requirements, creating a robust job market in the clean energy sector. Social responsibility needs to be ingrained in corporate decisions and customer behavior. We must ensure an equitable clean energy access for all."
+  },
+  {
+    "objectID": "posts/2024-02-26-dac/index.html",
+    "href": "posts/2024-02-26-dac/index.html",
+    "title": "Direct Air Capture",
+    "section": "",
+    "text": "Climate change caused by global carbon emissions threatens human existence as we know it today. Current mitigation efforts to reduce greenhouse gas emissions are important, but experts agree that carbon dioxide removal is required to keep global temperatures below the critical 1.5°C warming (Lebling et al., 2022).\nDirect air capture (DAC) is a new technology that uses chemical reactions to attract and trap CO2 out of ambient air. The process includes large fans that draw air across either liquid solvents or solid sorbents, which selectively react with carbon dioxide and remove it with 75% efficiency while letting other chemicals pass through (Lebling et al., 2022; Valentine and Zoelle, 2024). Once trapped, the CO2 is released from the solvents and sorbents through a heating process. There are several fates for the captured carbon dioxide. For long-term sequestration, it is injected deep underground, where it will remain for thousands of years. Carbon dioxide can also be sold for use in concrete or plastic, which has a shorter cycle. A third and poorer option is to convert it back into fossil fuels or carbon dioxide for beverages, which releases the carbon immediately back into the air. Capture carbon can also be used in synthetic jet fuel. While this is less emission-intensive than fossil fuels, it promotes the continued use of fossil fuels (Lebling et al., 2022). There are three major companies in direct air capture: Climeworks, Carbon Engineering, and Global Thermostat. In total, they have 18 plants that each capture between 1-4,000 tons of CO2/year, for a total of 8,000 tons of CO2 captured per year. At this point, half of the CO2 is sequestered underground permanently, and half is sold as products (Lebling et al., 2022)."
+  },
+  {
+    "objectID": "posts/2024-02-26-dac/index.html#inroduction",
+    "href": "posts/2024-02-26-dac/index.html#inroduction",
+    "title": "Direct Air Capture",
+    "section": "",
+    "text": "Climate change caused by global carbon emissions threatens human existence as we know it today. Current mitigation efforts to reduce greenhouse gas emissions are important, but experts agree that carbon dioxide removal is required to keep global temperatures below the critical 1.5°C warming (Lebling et al., 2022).\nDirect air capture (DAC) is a new technology that uses chemical reactions to attract and trap CO2 out of ambient air. The process includes large fans that draw air across either liquid solvents or solid sorbents, which selectively react with carbon dioxide and remove it with 75% efficiency while letting other chemicals pass through (Lebling et al., 2022; Valentine and Zoelle, 2024). Once trapped, the CO2 is released from the solvents and sorbents through a heating process. There are several fates for the captured carbon dioxide. For long-term sequestration, it is injected deep underground, where it will remain for thousands of years. Carbon dioxide can also be sold for use in concrete or plastic, which has a shorter cycle. A third and poorer option is to convert it back into fossil fuels or carbon dioxide for beverages, which releases the carbon immediately back into the air. Capture carbon can also be used in synthetic jet fuel. While this is less emission-intensive than fossil fuels, it promotes the continued use of fossil fuels (Lebling et al., 2022). There are three major companies in direct air capture: Climeworks, Carbon Engineering, and Global Thermostat. In total, they have 18 plants that each capture between 1-4,000 tons of CO2/year, for a total of 8,000 tons of CO2 captured per year. At this point, half of the CO2 is sequestered underground permanently, and half is sold as products (Lebling et al., 2022)."
+  },
+  {
+    "objectID": "posts/2024-02-26-dac/index.html#cost-and-feasibility",
+    "href": "posts/2024-02-26-dac/index.html#cost-and-feasibility",
+    "title": "Direct Air Capture",
+    "section": "Cost and Feasibility",
+    "text": "Cost and Feasibility\nA case study done in 2024 by the Department of Energy and the National Energy Technology Laboratory explores liquid solvent-based carbon capture to compare the cost and performance estimates of two models with different carbon sequestration capacities. Case 1 had a net carbon removal of 903,970 tons of CO2/year and cost $293/ton. The second case removed 100,000 tons of CO2/year and cost $486/ton. This analysis does not include capital costs of infrastructure and instead assumes mature technology and thus immediate costs may be significantly higher. At this point, the cost of direct air capture is higher than point source CO2 capture and significantly higher than reforestation, which costs $50/ton of CO2 removed (Lebling et al., 2022; Valentine and Zoelle, 2024). The study concluded that direct air capture is still in its large-scale prototype phase and much more research and development needs to be done to drop the costs (Valentine and Zoelle, 2024). While projected costs are high, Climeworks estimates costs to drop to $200/tonne in the next three to four years, with a long-term goal of under $100/tonne by 2030 (ClimeWorks, 2019). This is still double the cost of reforestation."
+  },
+  {
+    "objectID": "posts/2024-02-26-dac/index.html#policies-and-regulations",
+    "href": "posts/2024-02-26-dac/index.html#policies-and-regulations",
+    "title": "Direct Air Capture",
+    "section": "Policies and Regulations",
+    "text": "Policies and Regulations\nThere is significant government support through policies and subsidies for the implementation of direct air capture, which will aid in decreasing costs. The Department of Energy has allotted 129 million dollars and has Direct Air Capture Hub awards to help scale the technology (Andreason, 2023). In 2022, the Inflation Reduction Act enacted the 45Q Tax Credit that provides $35-50/ton CO2 removal through direct air capture or point source capture. The Bipartisan Infrastructure Law has set aside several billion dollars for DAC hubs and fund infrastructure like CO2 pipelines and geologic sequestration (Lebling et al., 2022; Valentine and Zoelle, 2024). Current US policies support DAC, but none put limitations on the sale and use of captured carbon, which may limit the positive impacts of DAC."
+  },
+  {
+    "objectID": "posts/2024-02-26-dac/index.html#advantages",
+    "href": "posts/2024-02-26-dac/index.html#advantages",
+    "title": "Direct Air Capture",
+    "section": "Advantages",
+    "text": "Advantages\nDirect air capture promises advantages as being a permanent carbon dioxide storage solution. Unlike many natural solutions, the direct air capture methods are measurable, verifiable, and reportable. It can capture legacy emissions already present in the atmosphere as opposed to carbon capture at its emission point source. A major benefit of direct air capture is its flexibility in land use. It does not require arable land, which minimizes the impact on food production and other land use changes. Also, it requires a smaller amount of land per tonne of CO2 removed than traditional carbon removal techniques like reforestation. (Lebling, 2022). DAC promises the potential of creating well-paying jobs for people with skills in construction, plumbing, electrical works, operations, and manufacturing. While phasing out fossil fuels will lead to high unemployment, skills from the fossil fuel industry are transferable to the DAC industry. (Andreason, J., 2023)."
+  },
+  {
+    "objectID": "posts/2024-02-26-dac/index.html#tradeoffs",
+    "href": "posts/2024-02-26-dac/index.html#tradeoffs",
+    "title": "Direct Air Capture",
+    "section": "Tradeoffs",
+    "text": "Tradeoffs\nThe tradeoffs associated with direct air capture must be weighed while considering its contribution to the carbon removal portfolio. DAC plants require high investments and high energy requirements. The carbon captured in these plants should be considerably higher than the carbon emitted in construction and energy use to pay off the investments. The technology is not yet advanced enough to capture emissions at a large scale. There are issues with leakage during the injection of carbon into the storage wells. The injection could cause fractures in the protective layers of the well. (S. Holloway, 2008). Studies show that fluid injection induces seismicity that poses a further risk of leakage at carbon storage sites. (A. Nicol, 2011). As carbon is often stored around oil and gas wells, the original bores can also create pathways for leaks."
+  },
+  {
+    "objectID": "posts/2024-02-26-dac/index.html#health-risks",
+    "href": "posts/2024-02-26-dac/index.html#health-risks",
+    "title": "Direct Air Capture",
+    "section": "Health Risks",
+    "text": "Health Risks\nThe leakage of carbon dioxide from pipelines and storage causes severe immediate breathing issues for the local communities. Increased dose of carbon dioxide in the atmosphere is deadly and toxic as experienced during the Denbury carbon pipe leaks in Mississippi. (Zegart, 2021) In addition to the carbon pollution in the air and the risk of earthquakes, there are public health and safety issues associated with DAC for vulnerable communities. DAC technology relies on two toxic solvents that have no sustainable disposal solutions yet. (Qiu, 2022) Aqueous hydroxide solutions release deadly and corrosive chlorine gas. (Zhang, 2014) Amine-modified solutions produce chemical carcinogens at a rate that exceeds toxicity limits for drinking water and aquatic ecosystems. (Karl, 2011). These are all serious health risks that must be addressed if DAC is scaled."
+  },
+  {
+    "objectID": "posts/2024-02-26-dac/index.html#mitigation-first",
+    "href": "posts/2024-02-26-dac/index.html#mitigation-first",
+    "title": "Direct Air Capture",
+    "section": "Mitigation First",
+    "text": "Mitigation First\nAlong with the disadvantages and environmental justice concerns, DAC also has unintended impacts in diminished mitigation efforts. DAC has been used as a tool by oil and gas companies to offset emissions and enhance extraction and recovery. Most of the captured carbon goes into oil wells to flush out the last dregs of oil. This will ultimately lead to more emissions with enhanced fossil fuel burning than what was captured. With subsidies and tax credits offered for the DAC projects, the focus is shifting from reducing the emissions at the source. The overall impacts related to local pollution, public health risks, ecosystem toxicity, and the ultimate use of stored carbon should be accounted for before making huge investments in DAC hubs."
+  },
+  {
+    "objectID": "posts/2024-02-26-dac/index.html#conclusion",
+    "href": "posts/2024-02-26-dac/index.html#conclusion",
+    "title": "Direct Air Capture",
+    "section": "Conclusion",
+    "text": "Conclusion\nThe climate crisis requires an array of carbon emission reduction and removal solutions in synergy. DAC is one of the solutions in the portfolio that offers advantages in capturing legacy emissions. The United States has produced the highest proportion of legacy emissions and hence bears the responsibility to set the standard for carbon sequestration (Lebling et al., 2022). Investments by the US in the DAC plants need to be backed by regulatory policies to manage their potentially harmful environmental impacts. The policies need to ensure that the sequestered carbon is not used to further benefit oil and gas drilling. The focus of investments should be first on building renewable energy infrastructure to reduce carbon emissions, and then use the DAC removal strategies to aid the net zero transition. To implement and scale the DAC solutions, strict regulations need to be in place to control leakage accidents. Solid sorbents should be used instead of toxic liquid solvents to avoid water pollution, human health impacts, and ecosystem toxicity. The solid sorbents are also more energy-efficient as they rely on electricity instead of natural gas. In addition to managing environmental impacts and the unintended endorsement of the oil and gas industry, the DAC technology also needs to be developed to have a higher amount of carbon capture per dollar of investment and emit much less carbon than it captures to become a viable solution.\nCitations:\n\nAndreason, J. (2023, November 6). What is Direct Air Capture?. Breakthrough Energy. https://breakthroughenergy.org/news/what-is-direct-air-capture/#:~:text=DAC%20acts%20like%20a%20giant,other%20chemicals%20to%20pass%20through\nClimeworks starts paid carbon dioxide removal. CleanTechnica. (2019, June 17). https://cleantechnica.com/2019/06/17/climeworks-starts-paid-carbon-dioxide-removal/\nEnvironmental Protection Agency. (2024, February 14). Inventory of U.S. Greenhouse Gas Emissions and Sinks. US Environmental Protection Agency. https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks#:~:text=In%202022%2C%20U.S.%20greenhouse%20gas,sequestration%20from%20the%20land%20sector.\nHolloway, S. (2009). Storage capacity and containment issues for carbon dioxide capture and geological storage on the UK continental shelf. Proceedings of the Institution of Mechanical Engineers, Part A: Journal of Power and Energy, 223(3), 239-248.\nIde, S. T., Friedmann, S. J., & Herzog, H. J. (2006, June). CO2 leakage through existing wells: current technology and regulations. In 8th International Conference on Greenhouse Gas Control Technologies (Vol. 1, pp. 19-33).\nKarl, M., Wright, R. F., Berglen, T. F., & Denby, B. (2011). Worst case scenario study to assess the environmental impact of amine emissions from a CO2 capture plant. International Journal of Greenhouse Gas Control, 5(3), 439-447.\nLebling, K., Leslie-Bole, H., Byrum, Z., & Bridgwater, L. (2022, May 2). 6 Things to Know About Direct Air Capture. World Resources Institute. https://www.wri.org/insights/direct-air-capture-resource-considerations-and-costs-carbon-removal\nMann, M. (2024, February 23). Michael Mann: “A Life in Climate Science.” Santa Barbara; University of California, Santa Barbara.\nNational Energy Technology Labratory. (2022, November 3). Netl case study explores solvent-based direct air capture systems for the removal of atmospheric CO2. NETL Case Study Explores Solvent-Based Direct Air Capture Systems for the Removal of Atmospheric CO2. https://netl.doe.gov/node/12180\nNicol, A., Carne, R., Gerstenberger, M., & Christophersen, A. (2011). Induced seismicity and its implications for CO2 storage risk. Energy Procedia, 4, 3699-3706.\nQiu, Y., Lamers, P., Daioglou, V., McQueen, N., de Boer, H. S., Harmsen, M., … & Suh, S. (2022). Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100. Nature Communications, 13(1), 3635.\nValentine, J. and Zoelle, A. (2022, August 31). “Direct Air Capture Case Studies: Solvent System,” National Energy Technology Laboratory, Pittsburgh, PA.\nZhang, Y., Xu, J., Zhang, Y., Zhang, J., Li, Q., Liu, H., & Shang, M. (2014). Health risk analysis of nitrosamine emissions from CO2 capture with monoethanolamine in coal-fired power plants. International journal of greenhouse gas control, 20, 37-42."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I graduated from BITS-Pilani, India, in 2019 with a dual degree in Chemistry and Electrical Engineering. After graduating, I started as a structural design engineer at Intel, Bangalore, where I worked on optimizing power and frequency in processor design. Here, I also learned about the challenges the semiconductor industry faces in using natural resources for sustainable manufacturing, managing electronic waste, and increasing product energy efficiency.\nInspired to solve natural resources and climate problems I deeply care about, I decided to shift my career and pursue Environmental Science and Management at the Bren School of Environment, UC Santa Barbara. I am specializing in the areas of Business and Sustainability and Energy and Climate. I am particularly interested in circularity, Life Cycle Analysis, renewable energy transition, and emissions management."
   }
 ]

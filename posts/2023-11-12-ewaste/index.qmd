@@ -1,0 +1,74 @@
+---
+title: "Fast Tech"
+subtitle: "How to manage the waste of the ever-growing electronics industry?"
+description: "E-Waste 101"
+author:
+  - name: Vrunda Tol
+    url: https://vrundatol.github.io/
+date: 11-12-2023
+categories: [Industrial Ecology, E-Waste, Circularity] # self-defined categories
+citation: 
+  url: https://vrundatol.github.io/posts/2023-11-12-ewaste/ 
+image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Introduction
+
+Fast tech is the new trend after fast fashion in the 21st century. Mobile phones, tablets, and laptops are replaced every 2-4 years to make way for advanced models. Companies race to bring impressive features to the market, tempting customers to upgrade their old devices. The pile of discarded devices thus keeps increasing. Bigger electronic equipment like refrigerators, ACs, washing machines, printers, ovens, vacuum cleaners, etc., have longer life spans but pose environmental threats when discarded. All these products need proper end-of-life management for sustainable future use.
+
+## Problem
+
+UN’s Global E-waste Report2 records 53.6 million metric tonnes of global electronic waste in 2019. This could cover the entire city of Washington, D.C., if spread across a height of 1m. Only 17.4% of this waste was collected and recycled. The rest either ended up in landfills or was traded and informally recycled in developing countries, exposing workers to hazardous and carcinogenic substances such as mercury, lead, and cadmium. E-waste in landfills contaminates soil and groundwater, putting food supply systems and water sources at risk. In addition to the glaring environmental risks, e-waste needs to be recycled to extract the precious metals that would otherwise need to be mined at a higher cost from a depleting non-renewable supply.
+
+## Recycling
+
+Recycling the raw materials from the e-waste is beneficial for the environment and the economy, but its execution faces challenges. There is a lack of regulation in collection and processing in many countries that can’t afford the set-up and maintenance costs of the recycling infrastructure. A huge challenge is to develop and scale technologies for safe disassembly, sorting, and contaminant-free material regeneration. Electronic products are difficult to dismantle because of their complex designs and compositions. The recycling practices need to be cost-effective, energy-efficient, and non-hazardous to be implemented widely.4
+
+## Disproportionate Impacts
+
+Developed countries export up to 20% of their e-waste to developing countries where workers adopt crude methods to recover and sell the valuable metals. In Nigeria, the law prohibits methods like burning plastic cables and acid leaching. However, due to minimal enforcement and low awareness of the health risks, the pickers continue to expose themselves to toxins that cause respiratory and dermatological problems, eye infections, and neurodevelopmental issues.5 The impacts of global e-waste are thus faced disproportionately by countries. The Americas and Europe account for 13.3 and 16.2 kg of e-waste per capita, more than double the generation of Asia and Africa.2 It is inequitable that the rich consume more luxurious electronic products and leave the waste to their poorer neighbors. The affected communities bear the environmental and health risks; and consequences of a problem they did not cause.
+
+## Policy Solutions
+
+All national governments need to strictly regulate their e-waste trade, and be responsible for setting up sophisticated recycling infrastructure in collaboration with technology experts. Policies must look at e-waste management as an opportunity to not just solve the raw-material scarcity crisis and prevent the detrimental health impacts but also to provide equal technology access to all. If the products are designed to be repairable, an outdated product for one could prove to be useful to another. The life span of each product is thus increased and the amount of e-waste goes down. In 2020, the EU voted for “right to repair” rules for consumer electric goods requiring all new products sold to be repairable for up to 10 years.6 In this way, governments can shape industry strategies.
+
+## Industry Solutions
+
+Industries need a paradigm shift in their design approach to achieve repairability and recyclability. The focus should be on enabling these services instead of upgrading the products every couple of years. Companies like Fairphone set the example with their programs where they repair 40% of the returned phones for reuse and safely recycle 60% to extract valuable metals. Industries also need to explore ways to manufacture new-generation products with recycled materials without compromising on quality. Management has the power to influence customer behavior with marketing strategies and cost incentives in take-back and leasing schemes.
+
+## Consumer Behavior
+
+Consumers must be conscious of the ramifications of e-waste in their purchasing choices, product use, and end-of-life disposal. None of the industry and policy initiatives work unless the consumer complies. Consumers can also, in turn influence the industry and the governments by demanding sustainable products and services. A coherence of efforts in technology, management, policy, and consumer behavior can solve the e-waste management issue and create an equitable technology future.
+
+Citations:
+
+1.  
+
+    ```         
+    Singh, Narendra, and Oladele A. Ogunseitan. "Disentangling the worldwide web of e-waste and climate change co-benefits." Circular Economy 1.2 (2022): 100011.
+    ```
+
+2.  
+
+    ```         
+    Forti, Vanessa, et al. “The Global E-waste Monitor 2020 – Quantities, flows, and the circular economy potential”  Sustainable Cycles Programme, United Nations Institute for Training and Research. The Global E-waste Monitor 2020
+    ```
+
+3.  
+
+    ```         
+    Liu, Kang, et al. "A global perspective on e-waste recycling." Circular Economy (2023): 100028.
+    ```
+
+4.  
+
+    ```         
+    Shahabuddin, M., et al. "A review of the recent development, challenges, and opportunities of electronic waste (e-waste)." International Journal of Environmental Science and Technology 20.4 (2023): 4513-4520.
+    ```
+
+5.  
+
+    ```         
+    Eloise Touni. “Dark skies, bright future: overcoming Nigeria’s e-waste epidemic” Dark skies, bright future: overcoming Nigeria’s e-waste epidemic
+    ```

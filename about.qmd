@@ -2,6 +2,6 @@
 title: "About"
 ---
 
-I am a sustainability professional, passionate about solving climate challenges, particularly driving the clean energy transition, decarbonization, and circularity in semiconductor tech and EV battery industries. Starting my career with a background in chemistry and electrical and electronics engineering from BITS-Pilani, I navigated to environmental sustainability with a Master's in Environmental Science and Management at the Bren School of Environment, UC Santa Barbara. 
+I graduated from BITS-Pilani, India, in 2019 with a dual degree in Chemistry and Electrical Engineering. After graduating, I started as a structural design engineer at Intel, Bangalore, where I worked on optimizing power and frequency in processor design. Here, I also learned about the challenges the semiconductor industry faces in using natural resources for sustainable manufacturing, managing electronic waste, and increasing product energy efficiency.
 
-I learn about new climate solutions and career skills everyday at the Bren community and the larger sustainability network. Join me in my journey as I share my learning outcomes in this space!
+Inspired to solve natural resources and climate problems I deeply care about, I decided to shift my career and pursue Environmental Science and Management at the Bren School of Environment, UC Santa Barbara. I am specializing in the areas of Business and Sustainability and Energy and Climate. I am particularly interested in circularity, Life Cycle Analysis, renewable energy transition, and emissions management.

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – Vrunda Tol</title>
+<title>Portfolio – Vrunda Tol</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./media/favicon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,7 +71,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -95,11 +155,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
+    <a class="nav-link active" href="./posts.html" aria-current="page"> 
 <span class="menu-text">Portfolio</span></a>
   </li>  
   <li class="nav-item">
@@ -121,20 +181,20 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Q2FyYm9uJTIwUmVtb3ZhbA==">Carbon Removal <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2lyY3VsYXJpdHk=">Circularity <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q2xpbWF0ZSUyMENoYW5nZQ==">Climate Change <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q3JpdGljYWwlMjBNaW5lcmFscw==">Critical Minerals <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RS1XYXN0ZQ==">E-Waste <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RW5lcmd5">Energy <span class="quarto-category-count">(2)</span></div><div class="category" data-category="SW5kdXN0cmlhbCUyMEVjb2xvZ3k=">Industrial Ecology <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">Portfolio</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -146,12 +206,152 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I graduated from BITS-Pilani, India, in 2019 with a dual degree in Chemistry and Electrical Engineering. After graduating, I started as a structural design engineer at Intel, Bangalore, where I worked on optimizing power and frequency in processor design. Here, I also learned about the challenges the semiconductor industry faces in using natural resources for sustainable manufacturing, managing electronic waste, and increasing product energy efficiency.</p>
-<p>Inspired to solve natural resources and climate problems I deeply care about, I decided to shift my career and pursue Environmental Science and Management at the Bren School of Environment, UC Santa Barbara. I am specializing in the areas of Business and Sustainability and Energy and Climate. I am particularly interested in circularity, Life Cycle Analysis, renewable energy transition, and emissions management.</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="RW5lcmd5JTJDQ3JpdGljYWwlMjBNaW5lcmFscyUyQ0NpcmN1bGFyaXR5" data-listing-date-sort="1710486000000" data-listing-file-modified-sort="1742718421394" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1150">
+<a href="./posts/2024-03-15-lithium/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2024-03-15-lithium/preview-image.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lithium: Biogeochemical Implications
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('RW5lcmd5'); return false;">
+Energy
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q3JpdGljYWwlMjBNaW5lcmFscw=='); return false;">
+Critical Minerals
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q2lyY3VsYXJpdHk='); return false;">
+Circularity
+</div>
+</div>
+<div class="card-text listing-description">
+Extraction, Use, and Recycling
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Vrunda Tol, Chelsea Sanford
+</div>
+<div class="listing-date">
+Mar 15, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Q2xpbWF0ZSUyMENoYW5nZSUyQ0NhcmJvbiUyMFJlbW92YWw=" data-listing-date-sort="1708934400000" data-listing-file-modified-sort="1742718383852" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1724">
+<a href="./posts/2024-02-26-dac/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2024-02-26-dac/preview-image.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Direct Air Capture
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Q2xpbWF0ZSUyMENoYW5nZQ=='); return false;">
+Climate Change
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q2FyYm9uJTIwUmVtb3ZhbA=='); return false;">
+Carbon Removal
+</div>
+</div>
+<div class="card-text listing-description">
+Analysis on the feasibility of DAC
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Vrunda Tol, Chelsea Sanford
+</div>
+<div class="listing-date">
+Feb 26, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="RW5lcmd5" data-listing-date-sort="1701676800000" data-listing-file-modified-sort="1742718332792" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="388">
+<a href="./posts/2023-12-04-energy/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2023-12-04-energy/preview-image.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+A Clean Energy Revolution
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('RW5lcmd5'); return false;">
+Energy
+</div>
+</div>
+<div class="card-text listing-description">
+An Ideal Simplistic Vision for the U.S.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Vrunda Tol
+</div>
+<div class="listing-date">
+Dec 4, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="SW5kdXN0cmlhbCUyMEVjb2xvZ3klMkNFLVdhc3RlJTJDQ2lyY3VsYXJpdHk=" data-listing-date-sort="1699776000000" data-listing-file-modified-sort="1742718192163" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="951">
+<a href="./posts/2023-11-12-ewaste/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./posts/2023-11-12-ewaste/preview-image.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fast Tech
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('SW5kdXN0cmlhbCUyMEVjb2xvZ3k='); return false;">
+Industrial Ecology
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('RS1XYXN0ZQ=='); return false;">
+E-Waste
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Q2lyY3VsYXJpdHk='); return false;">
+Circularity
+</div>
+</div>
+<div class="card-text listing-description">
+E-Waste 101
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Vrunda Tol
+</div>
+<div class="listing-date">
+Nov 12, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

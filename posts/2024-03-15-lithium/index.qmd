@@ -1,0 +1,76 @@
+---
+title: "Lithium: Biogeochemical Implications"
+subtitle: "ESM 202: Environmental Biogeochemistry"
+description: "Extraction, Use, and Recycling"
+author:
+  - name: Vrunda Tol
+    url: https://vrundatol.github.io/
+  - name: Chelsea Sanford
+    url: https://www.linkedin.com/in/chelseasanford/
+date: 03-15-2024
+categories: [Energy, Critical Minerals, Circularity] # self-defined categories
+citation: 
+  url: https://vrundatol.github.io/posts/2024-03-15-lithium/ 
+image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Introduction
+
+Lithium is a trace element that has emerged as a pivotal player in the next energy transition as the world grapples with climate change. Lithium is electrochemically active, having the highest redox potential value and the highest specific heat capacity of any solid element. These unique properties make it an essential component of our bodies, diets, pharmaceuticals, and more popularly the modern electric vehicle revolution. While there are many benefits to lithium, there are still risks, known and unknown, associated with it.
+
+## Biogeochemical Cycle Disruption
+
+Lithium extraction and mining have skyrocketed as the world looks for solutions to the climate crisis. This element usually cycles at around 100 million g/year but is now being mobilized at \>1,000 million g/year. This is a nearly 500% increase in recent years and we can only expect this number to increase with increasing battery demands. A major cause of human emissions of Li to the atmosphere is through coal combustion.
+
+## Ecological Disruption
+
+Lithium is available primarily in the brines or related evaporites (66%), in pegmatites (26%) and sedimentary rocks (8%). (Gruber et al., 2011). The conventional methods for lithium mining are through brine evaporation and extraction in open pits from hard rock or clay deposits. The brine deposits are found in the ‘Lithium Triangle’ of Argentina, Chile, and Bolivia. Brine evaporation requires a large amount of water. It has been estimated that 1 ton of Li strip-mined in Chile was estimated to consume 540 tonnes of water and release 5 tonnes of CO2. Evaporation ponds from salt flats, known as salares, deplete water from aquifers in already arid environments. Large hard rock mines are found in Australia. The hard rock mines leak chemicals into water systems causing harm to local ecosystems and indigenous communities in these areas. New proposed lithium mines in Nevada, by a company called Ioneer, are displacing the native endangered buckwheat species.
+
+## New Extraction Technologies
+
+A new technology of Direct Lithium Extraction (DLE) is being developed to tackle the environmental impacts of conventional methods. It involves adsorption and ion exchange, that use chemical and physical processes to directly remove lithium from brine. An example is in the Imperial Valley in southern California, where large lithium deposits dissolved in brine deep below ground on the southern shore of the Salton Sea. This hot brine is extracted through geothermal wells to generate electricity at 11 power plants and then re-injected back underground. This requires lesser land area for evaporation, lesser water displacement, net energy usage (MIT, 2024), and nearly double the lithium production than current practices (Nicolaci et al., 2023).
+
+## Recycling and Alternate Solutions
+
+Another solution to move away from the impacts of lithium extraction is to increase recycling. It has been proven that creating lithium-ion batteries from recycled battery materials can be up to 48% less in cost and create 54% less environmental impact (Gonzales-Calienes, 2023). Companies such as Redwood Materials in Nevada and Li-Cycle in Toronto are developing hydrometallurgical and pyrometallurgical technologies to recover minerals from Lithium-ion batteries while minimizing greenhouse gas emissions and other impacts.
+
+Secondary solutions to reduce overall dependence on lithium include the use of alternate batteries such as sodium-ion for stationary storage. Although sodium-ion batteries are less efficient than lithium and much heavier, their raw material sodium is present abundantly with fewer biogeochemical implications (Gagnon, 2024). Another emerging technology is the iron-air battery which uses a water-based electrolyte and stores energy using reversible rusting. (Asmare et al, 2024)
+
+## Behavioral Changes
+
+Apart from technological solutions, the simplest and straightforward way is to build a “clean energy economy that is less reliant on lithium,” says Caroline White-Nockleby (MIT, 2024). By building a more robust public transportation system and encouraging individuals to bike and walk, we can reduce lithium demand by 18-92% (Riofrancos et al., 2023). Such behavior changes in developed countries can reduce lithium dependency substantially.
+
+## Barriers
+
+There are several social and economic barriers associated with each of these solutions. The largest barrier to the new DLE technology is the cost. Capital costs for DLE can be double the amount of the traditional lithium extraction methods, although it has a higher recovery rate of 70-90% compared to 30-40% for ponds (Nicolaci et al., 2023). While foreign companies own the machinery and equipment and may not want to invest in more expensive technologies, reducing the land area impact would give lands back, which have cultural and other economic benefits for the locals (MIT, 2024).
+
+Lithium recycling also poses several barriers economically and environmentally. Current lithium recycling processes are extremely limited because of retrieval efficiency. In the European Union in 2012, less than 1% of lithium was recycled (UNEP data). A mass balance analysis reveals that pyrometallurgical lithium recycling has impacts in air pollution, hydrogen fluoride emissions (Fu et al., 2018), wastewater, and solid waste, while the hydrometallurgical route generates high volumes of wastewater (Swain, 2017). In addition, the health risks and effects of long-term high exposure are unknown (Nicolaci et al., 2023). Recycling solutions can only be effective if these impacts are managed. The barrier with alternate batteries is their scalability and energy density as compared to LIB. Reducing overall energy usage seems a straightforward pathway, but behavior change is arguably the most difficult change to make.
+
+## Conclusion
+
+A combination of behavioral, technological, and economical changes are required to manage the currently high mobilization of Lithium. Investments in DLE technologies and improved lithium recycling, research on alternate battery solutions, policy changes to boost public transportation, and regulations to ensure the safety and health of local communities near lithium mines are some of the steps that need to be taken to address this issue.
+
+*Citations: 1. Schlesinger, W., Klein, E., Wang, Z., & Vengosh, A. (2021, July 16). Global biogeochemical cycle of lithium. AGU. https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GB006999.*
+
+*2. Fu, J., Zhang, H., Zhang, A., & Jiang, G. (2018, June 4). E-waste recycling in China: A challenging field. \| semantic scholar. ACS Publications. https://www.semanticscholar.org/paper/E-waste-Recycling-in-China:-A-Challenging-Field.-Fu-Zhang/bca469fdd893bbba8c912c1b995dcc224680a014.*
+
+*3. Gagnon, S. (2024). It’s elemental. It’s Elemental - The Element Sodium. https://education.jlab.org/itselemental/ele011.html*
+
+*4. Gonzales-Calienes, G., Kannangara, M., & Bensebaa, F. (2023, July 11). Economic and environmental viability of lithium-ion battery recycling-case study in two Canadian regions with different energy mixes. MDPI. https://www.mdpi.com/2313-0105/9/7/375*
+
+*5. MIT. (2024, February 12). How is lithium mined?. MIT Climate Portal. https://climate.mit.edu/ask-mit/how-lithium-mined.*
+
+*6. Nicolaci, H., Young, P., Snowdon, N., & Rai, A. (2023, April 27). Direct lithium extraction: A potential game changing ... Goldman Sachs. https://www.goldmansachs.com/intelligence/pages/gs-research/direct-lithium-extraction/report.pdf*
+
+*7. Riofrancos, T. (2023, January). More Mobility Less Mining. Climate and Community. https://www.climateandcommunity.org/more-mobility-less-mining*
+
+*8. Global Lithium Availability - Gruber - 2011 - Journal of Industrial ... (n.d.-b). https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1530-9290.2011.00359.x*
+
+*9. Swain, B. (2017). Recovery and recycling of lithium: A review. Separation and Purification Technology, 172, 388-403*
+
+*10. ScienceDaily. (2023, December 13). Resource-efficient and climate-friendly with sodium-ion batteries. ScienceDaily. https://www.sciencedaily.com/releases/2023/12/231213112602.htm#:\~:text=One%20option%20is%20a%20sodium,running%20out%20of%20raw%20materials.*
+
+*11. Vera, M. L., Torres, W. R., Galli, C. I., Chagnes, A., & Flexer, V. (2023). Environmental impact of direct lithium extraction from brines. Nature Reviews Earth & Environment, 4(3), 149-165.*
+
+*12. Asmare, M., Zegeye, M., & Ketema, A. (2024). Advancement of electrically rechargeable metal-air batteries for future mobility. Energy Reports, 11, 1199-1211.*

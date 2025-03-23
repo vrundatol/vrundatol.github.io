@@ -1,0 +1,30 @@
+---
+title: "A Clean Energy Revolution"
+subtitle: "ESM 288: Energy, Technology, and the Environment"
+description: "An Ideal Simplistic Vision for the U.S."
+author:
+  - name: Vrunda Tol
+    url: https://vrundatol.github.io/
+date: 12-04-2023
+categories: [Energy] # self-defined categories
+citation: 
+  url: https://vrundatol.github.io/posts/2023-12-04-energy/ 
+image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+The current energy sources distribution in the US is 83% fossil fuels, 8% renewables, 8% nuclear, and 1% hydro. The environmental impacts of energy production and use of fossil fuels (coal, oil, and gas) are much higher than the renewables in GHG emissions, pollution, and land-use changes. We need to increase the share of renewable sources (solar and wind) for a clean energy transition because of their lower environmental impacts. The figure below compares energy demands and all renewable energy supplies per day per person in Britain. Assuming a similar trend to be followed in the US, it is possible to rely on renewable energy sources for around 90% of our energy demands. For the remaining 10%, we should rely on nuclear and hydroenergy because of their lower environmental impacts than fossil fuels. The figure counts offshore wind energy in Britain, which could be substituted to some extent with more solar PV energy in the US. The use of biomass should also be lower than what is shown in the figure because of its impacts on land-use changes.
+
+![Citation: MacKay, David JC. Sustainable Energy-without the hot air. Bloomsbury Publishing, 2016](clean_energy.png)
+
+## Technological feasibility
+
+Currently the conversion efficiency of solar PV is 10-20% and is limited to 31% by the Shockley Queisser limit. 1For wind, the conversion efficiency lies between 20-40%. We need more efficient conversion technologies with lower pollution impacts during use-phase and end-of-life for the clean energy transition. Tidal, wave, and offshore wind energy technologies could also catch up in the coming years.
+
+## Operational feasibility
+
+There need to be significant changes in the energy grid infrastructure to shift the sources more toward solar and wind energy. Moving away from the coal and oil power plants is challenging but not impossible as historically shown in the reduced coal energy usage in the US. Wind and solar farms pose operational issues in land space and enough wind/sun availability, but US has an advantage of high wind areas in the central areas and high solar radiation in the south-west. With increasing technological efficiency and energy transportation, we should be able to work around these challenges.
+
+## Social feasibility
+
+The workforce must adapt to new skill requirements, creating a robust job market in the clean energy sector. Social responsibility needs to be ingrained in corporate decisions and customer behavior. We must ensure an equitable clean energy access for all.

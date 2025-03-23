@@ -1,0 +1,66 @@
+---
+title: "Direct Air Capture"
+subtitle: "ESM-202: Biogeochemistry; Solutions for Carbon Removal"
+description: "Analysis on the feasibility of DAC"
+author:
+  - name: Vrunda Tol
+    url: https://vrundatol.github.io/
+  - name: Chelsea Sanford
+    url: https://www.linkedin.com/in/chelseasanford/
+date: 02-26-2024
+categories: [Climate Change, Carbon Removal] # self-defined categories
+citation: 
+  url: https://vrundatol.github.io/posts/2024-02-26-dac/ 
+image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Inroduction
+
+Climate change caused by global carbon emissions threatens human existence as we know it today. Current mitigation efforts to reduce greenhouse gas emissions are important, but experts agree that carbon dioxide removal is required to keep global temperatures below the critical 1.5°C warming (Lebling et al., 2022).
+
+Direct air capture (DAC) is a new technology that uses chemical reactions to attract and trap CO2 out of ambient air. The process includes large fans that draw air across either liquid solvents or solid sorbents, which selectively react with carbon dioxide and remove it with 75% efficiency while letting other chemicals pass through (Lebling et al., 2022; Valentine and Zoelle, 2024). Once trapped, the CO2 is released from the solvents and sorbents through a heating process. There are several fates for the captured carbon dioxide. For long-term sequestration, it is injected deep underground, where it will remain for thousands of years. Carbon dioxide can also be sold for use in concrete or plastic, which has a shorter cycle. A third and poorer option is to convert it back into fossil fuels or carbon dioxide for beverages, which releases the carbon immediately back into the air. Capture carbon can also be used in synthetic jet fuel. While this is less emission-intensive than fossil fuels, it promotes the continued use of fossil fuels (Lebling et al., 2022). There are three major companies in direct air capture: Climeworks, Carbon Engineering, and Global Thermostat. In total, they have 18 plants that each capture between 1-4,000 tons of CO2/year, for a total of 8,000 tons of CO2 captured per year. At this point, half of the CO2 is sequestered underground permanently, and half is sold as products (Lebling et al., 2022).
+
+## Cost and Feasibility
+
+A case study done in 2024 by the Department of Energy and the National Energy Technology Laboratory explores liquid solvent-based carbon capture to compare the cost and performance estimates of two models with different carbon sequestration capacities. Case 1 had a net carbon removal of 903,970 tons of CO2/year and cost \$293/ton. The second case removed 100,000 tons of CO2/year and cost \$486/ton. This analysis does not include capital costs of infrastructure and instead assumes mature technology and thus immediate costs may be significantly higher. At this point, the cost of direct air capture is higher than point source CO2 capture and significantly higher than reforestation, which costs \$50/ton of CO2 removed (Lebling et al., 2022; Valentine and Zoelle, 2024). The study concluded that direct air capture is still in its large-scale prototype phase and much more research and development needs to be done to drop the costs (Valentine and Zoelle, 2024). While projected costs are high, Climeworks estimates costs to drop to \$200/tonne in the next three to four years, with a long-term goal of under \$100/tonne by 2030 (ClimeWorks, 2019). This is still double the cost of reforestation.
+
+## Policies and Regulations
+
+There is significant government support through policies and subsidies for the implementation of direct air capture, which will aid in decreasing costs. The Department of Energy has allotted 129 million dollars and has Direct Air Capture Hub awards to help scale the technology (Andreason, 2023). In 2022, the Inflation Reduction Act enacted the 45Q Tax Credit that provides \$35-50/ton CO2 removal through direct air capture or point source capture. The Bipartisan Infrastructure Law has set aside several billion dollars for DAC hubs and fund infrastructure like CO2 pipelines and geologic sequestration (Lebling et al., 2022; Valentine and Zoelle, 2024). Current US policies support DAC, but none put limitations on the sale and use of captured carbon, which may limit the positive impacts of DAC.
+
+## Advantages
+
+Direct air capture promises advantages as being a permanent carbon dioxide storage solution. Unlike many natural solutions, the direct air capture methods are measurable, verifiable, and reportable. It can capture legacy emissions already present in the atmosphere as opposed to carbon capture at its emission point source. A major benefit of direct air capture is its flexibility in land use. It does not require arable land, which minimizes the impact on food production and other land use changes. Also, it requires a smaller amount of land per tonne of CO2 removed than traditional carbon removal techniques like reforestation. (Lebling, 2022). DAC promises the potential of creating well-paying jobs for people with skills in construction, plumbing, electrical works, operations, and manufacturing. While phasing out fossil fuels will lead to high unemployment, skills from the fossil fuel industry are transferable to the DAC industry. (Andreason, J., 2023).
+
+## Tradeoffs
+
+The tradeoffs associated with direct air capture must be weighed while considering its contribution to the carbon removal portfolio. DAC plants require high investments and high energy requirements. The carbon captured in these plants should be considerably higher than the carbon emitted in construction and energy use to pay off the investments. The technology is not yet advanced enough to capture emissions at a large scale. There are issues with leakage during the injection of carbon into the storage wells. The injection could cause fractures in the protective layers of the well. (S. Holloway, 2008). Studies show that fluid injection induces seismicity that poses a further risk of leakage at carbon storage sites. (A. Nicol, 2011). As carbon is often stored around oil and gas wells, the original bores can also create pathways for leaks.
+
+## Health Risks
+
+The leakage of carbon dioxide from pipelines and storage causes severe immediate breathing issues for the local communities. Increased dose of carbon dioxide in the atmosphere is deadly and toxic as experienced during the Denbury carbon pipe leaks in Mississippi. (Zegart, 2021) In addition to the carbon pollution in the air and the risk of earthquakes, there are public health and safety issues associated with DAC for vulnerable communities. DAC technology relies on two toxic solvents that have no sustainable disposal solutions yet. (Qiu, 2022) Aqueous hydroxide solutions release deadly and corrosive chlorine gas. (Zhang, 2014) Amine-modified solutions produce chemical carcinogens at a rate that exceeds toxicity limits for drinking water and aquatic ecosystems. (Karl, 2011). These are all serious health risks that must be addressed if DAC is scaled.
+
+## Mitigation First
+
+Along with the disadvantages and environmental justice concerns, DAC also has unintended impacts in diminished mitigation efforts. DAC has been used as a tool by oil and gas companies to offset emissions and enhance extraction and recovery. Most of the captured carbon goes into oil wells to flush out the last dregs of oil. This will ultimately lead to more emissions with enhanced fossil fuel burning than what was captured. With subsidies and tax credits offered for the DAC projects, the focus is shifting from reducing the emissions at the source. The overall impacts related to local pollution, public health risks, ecosystem toxicity, and the ultimate use of stored carbon should be accounted for before making huge investments in DAC hubs.
+
+## Conclusion
+
+The climate crisis requires an array of carbon emission reduction and removal solutions in synergy. DAC is one of the solutions in the portfolio that offers advantages in capturing legacy emissions. The United States has produced the highest proportion of legacy emissions and hence bears the responsibility to set the standard for carbon sequestration (Lebling et al., 2022). Investments by the US in the DAC plants need to be backed by regulatory policies to manage their potentially harmful environmental impacts. The policies need to ensure that the sequestered carbon is not used to further benefit oil and gas drilling. The focus of investments should be first on building renewable energy infrastructure to reduce carbon emissions, and then use the DAC removal strategies to aid the net zero transition. To implement and scale the DAC solutions, strict regulations need to be in place to control leakage accidents. Solid sorbents should be used instead of toxic liquid solvents to avoid water pollution, human health impacts, and ecosystem toxicity. The solid sorbents are also more energy-efficient as they rely on electricity instead of natural gas. In addition to managing environmental impacts and the unintended endorsement of the oil and gas industry, the DAC technology also needs to be developed to have a higher amount of carbon capture per dollar of investment and emit much less carbon than it captures to become a viable solution.
+
+*Citations:*
+
+1.  *Andreason, J. (2023, November 6). What is Direct Air Capture?. Breakthrough Energy. https://breakthroughenergy.org/news/what-is-direct-air-capture/#:\~:text=DAC%20acts%20like%20a%20giant,other%20chemicals%20to%20pass%20through*
+2.  *Climeworks starts paid carbon dioxide removal. CleanTechnica. (2019, June 17). https://cleantechnica.com/2019/06/17/climeworks-starts-paid-carbon-dioxide-removal/*
+3.  *Environmental Protection Agency. (2024, February 14). Inventory of U.S. Greenhouse Gas Emissions and Sinks. US Environmental Protection Agency. https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks#:\~:text=In%202022%2C%20U.S.%20greenhouse%20gas,sequestration%20from%20the%20land%20sector.*
+4.  *Holloway, S. (2009). Storage capacity and containment issues for carbon dioxide capture and geological storage on the UK continental shelf. Proceedings of the Institution of Mechanical Engineers, Part A: Journal of Power and Energy, 223(3), 239-248.*
+5.  *Ide, S. T., Friedmann, S. J., & Herzog, H. J. (2006, June). CO2 leakage through existing wells: current technology and regulations. In 8th International Conference on Greenhouse Gas Control Technologies (Vol. 1, pp. 19-33).*
+6.  *Karl, M., Wright, R. F., Berglen, T. F., & Denby, B. (2011). Worst case scenario study to assess the environmental impact of amine emissions from a CO2 capture plant. International Journal of Greenhouse Gas Control, 5(3), 439-447.*
+7.  *Lebling, K., Leslie-Bole, H., Byrum, Z., & Bridgwater, L. (2022, May 2). 6 Things to Know About Direct Air Capture. World Resources Institute. https://www.wri.org/insights/direct-air-capture-resource-considerations-and-costs-carbon-removal*
+8.  *Mann, M. (2024, February 23). Michael Mann: “A Life in Climate Science.” Santa Barbara; University of California, Santa Barbara.*
+9.  *National Energy Technology Labratory. (2022, November 3). Netl case study explores solvent-based direct air capture systems for the removal of atmospheric CO2. NETL Case Study Explores Solvent-Based Direct Air Capture Systems for the Removal of Atmospheric CO2. https://netl.doe.gov/node/12180*
+10. *Nicol, A., Carne, R., Gerstenberger, M., & Christophersen, A. (2011). Induced seismicity and its implications for CO2 storage risk. Energy Procedia, 4, 3699-3706.*
+11. *Qiu, Y., Lamers, P., Daioglou, V., McQueen, N., de Boer, H. S., Harmsen, M., ... & Suh, S. (2022). Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100. Nature Communications, 13(1), 3635.*
+12. *Valentine, J. and Zoelle, A. (2022, August 31). "Direct Air Capture Case Studies: Solvent System," National Energy Technology Laboratory, Pittsburgh, PA.*
+13. *Zhang, Y., Xu, J., Zhang, Y., Zhang, J., Li, Q., Liu, H., & Shang, M. (2014). Health risk analysis of nitrosamine emissions from CO2 capture with monoethanolamine in coal-fired power plants. International journal of greenhouse gas control, 20, 37-42.*
