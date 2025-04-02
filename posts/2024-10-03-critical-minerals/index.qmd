@@ -1,0 +1,90 @@
+---
+title: "Environmental Venture Research: Critical Minerals Supply Chain"
+subtitle: "ESM 256B: Value Proposition Design for New Environmental Ventures"
+description: "Three Potential Venture Ideas"
+author:
+  - name: Vrunda Tol
+    url: https://vrundatol.github.io/
+  - name: Michael Roysner
+    url: https://www.linkedin.com/in/michael-roysner-49429a284/
+date: 03-10-2024
+categories: [Critical Minerals, Supply Chains, Industrial Ecology, E-Waste, Circularity] # self-defined categories
+citation: 
+  url: https://vrundatol.github.io/posts/2024-10-03-critical-minerals/ 
+image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Team Critical Control
+
+## Positioning statement
+
+The original intent in the discovery period of our environmental venture was to address environmental inflection points in the critical minerals and materials supply chain of the quickly growing renewable energy infrastructure industry such as EV Batteries, Turbines, Grid Structure, etc.
+
+## Environmental Issues in Industries
+
+Critical minerals like Lithium, Cobalt, Nickel, Copper, and Manganese drive the advancement of the renewable energy transition. To build renewable energy infrastructure such as EV batteries, solar panels, and battery storage systems, we need to ensure a robust and resilient supply chain of these minerals. The supply chain components for these critical minerals are spread globally. Global coordination and harmony are required to ensure a smooth flow of these minerals. Yet, this is not what occurs, as differing geopolitical tensions and ties have created bottlenecks in various regions across the world in this supply chain. This has made the supply chain critically insecure and non-transparent, and oftentimes, this obfuscation is used to export environmental issues in industries extracting and using these materials to regions with lax regulatory practices.
+
+It is important to first trace the environmental impacts of the critical minerals in the mining, refining, production, and disposal stages to then manage and reduce them. The environmental issues associated with mining include the exposure of mine workers to toxic gases and materials. Groundwater is often used to extract Lithium, which leads to water shortages in the local communities. Acid mine drainage and land use alteration are also caused by mining activities. In refining, the environmental issues include air, water, and soil pollution, and ecosystem toxicity due to the leakage of toxic materials. Similar impacts are seen if the products are not handled and disposed of safely during end-of-life.
+
+Our project aimed to find solutions to improve traceability and circularity of the critical minerals supply chain. We narrowed down our focus to Lithium, Cobalt, Nickel, Copper, and Manganese, which are used in EV batteries.
+
+## Ventures and Roadblocks
+
+Through our research, we attempted to identify 3 potential ventures to remediate issues we found within industries surrounding critical minerals and materials. While each identified venture is not unfeasible, we found that the level of support needed for some of our ventures, or the inherent structure of our frameworks, was not sufficient to produce a workable venture in the program length. Below is a summary of our 3 venture ideas, with a background, attempted solution, and reasoning for being unable to move forward with the issue.
+
+### 1. Verification Framework:
+
+#### Idea
+
+This venture iteration was founded on the idea of creating a ‘scorecard’ of sorts to analyze and grade suppliers and materials based on their environmental and human rights impacts. This would theoretically make it easier for procurers and consumers to know where their products' materials were coming from and how ‘good’ they are. The framework was to be narrowed down toward EV Batteries, taking inspiration from JD Power & Associates
+
+#### Roadblock
+
+We found through our interviews (most specifically with Allosense and Tesla) that in developing a verification framework, we would need sensitive proprietary corporate information. This information is not freely available, and we found that companies were and are largely unwilling to work with universities in this area. We found that we would need a large partner (government entity) that could use its power/influence to coerce companies into providing this information. We realized early on that the work needed to do so was not feasible for us or necessarily relevant to the main purpose of the Eco-E Opportunity project.
+
+### 2. Waste Collection for Critical Materials Recyclers
+
+#### Idea
+
+This venture idea was founded during our research into how recyclers (such as Redwood Materials) track/procure/source their materials and the general environmental impacts of EV Battery circularity. It became apparent that:
+
+A\) Recycling has little environmental impact and is advanced enough to handle most battery types.
+
+B\) Recyclers do not have enough supply of end-of-life batteries, as most are still ‘young’ and their end-of-life is over 20\~ years away. In turn, they struggle to source materials for market viability.
+
+We came up with the idea of creating a network/service that tracked and transported small electronics that have critical materials inside of them for these recyclers and to move these products away from landfills.
+
+#### Roadblock
+
+Transportation/Logistics ventures are notoriously difficult, and it would be incredibly hard for us to generate revenue from this venture. The resources and time available to us made this venture non-feasible. In addition, we would have to verify each recycler as a safe disposal site.
+
+### 3. Battery Identifier
+
+#### Idea
+
+This idea drew inspiration from the proposed framework for the EU’s battery passport. The main frame was that we would create an application/service that tracked the events throughout a battery's ‘first life’. This would include data such as usage, location, damages, events of significance, etc., that the battery may have experienced as it moved through its life. This info could then be used for those who utilize these products at end-of-life for best practices.
+
+#### Roadblock
+
+After some insight and thinking this venture was found to be non-revenue generating, as the framework aligned more with that of a non-profit, running counter to the requirements of an Eco-E Opportunity Project. In addition, an identifier would require participation from key players in multiple industries across the supply chain, alongside regulatory backing to make the scale of adoption needed occur.
+
+## Industry and Market Forces/Trends
+
+Through our primary research, we found that innovating in battery frameworks or identifiers requires collaboration across all the key players in the market. Most innovations need backing from government policies and regulations to be implemented widely. All the interconnected supply chain components across the globe must comply for these innovations to take off. This has been achieved to an extent through the Global Battery Alliance’s Battery Passport supported by the European Union.
+
+In the battery recycling industry in the US, Redwood Materials is leading with technological innovations in cathode and anode production from a mixture of recycled and virgin materials. Their challenge is an insufficient supply of recyclable minerals from batteries. Most of the EV batteries are in use and have not reached their end-of-life yet. The alternate option of extracting minerals from consumer electronics products has a low yield, considering the small quantities of the minerals present in these devices. Despite these challenges, the recycling industry needs to catch up in the coming decade to the expected increase in the supply of end-of-life batteries.
+
+In an attempt to boost the domestic mining and recycling businesses and secure its domestic supply chain for these critical minerals and materials, the US government has limited tax credits only if a certain percentage of the minerals are domestically sourced. The applicable percentage was 40% in 2023 and is increased by 10% every year.1 Another policy under development is the California Vehicle Traction Bill (CA SB 615).2 This bill requires all electric vehicle traction batteries in California to be recovered and reused, repurposed, remanufactured, or remanufactured and eventually recycled at the end of their useful life.
+
+In an interview with a Tesla manager, we found that they face challenges in identifying where the minerals come from. Instead of tracing the supply chain map, they would prefer a way to find out where the mineral came from by examining its properties. With further literature review in this area, we discovered a research paper on geochemical Lithium identifiers that can map Lithium to its mining source based on its isotope.3
+
+Additionally, we found through our interviews that changing consumer sentiment and the expectation of future regulations have pushed various industries (especially the automotive industry) to innovate consistently. Just as well, corporate powers have begun to face both internal and external pressures to be more sustainable and environmentally responsible and this is pushing them to be more responsible to stay competitive.
+
+**Citations:**
+
+1.  Treasury releases proposed guidance to continue the U.S. manufacturing boom in batteries and clean vehicles, and strengthen energy security. U.S. Department of the Treasury. (2023, December 1). https://home.treasury.gov/news/press-releases/jy1939#:\~:text=To%20meet%20the%20critical%20mineral,be%20recycled%20in%20North%20America%E2%80%94
+
+2.  California SB615. TrackBill. (n.d.). https://trackbill.com/bill/california-senate-bill-615-vehicle-traction-batteries/2369909/
+
+3.  Desaulty, A. M., Monfort Climent, D., Lefebvre, G., Cristiano-Tassi, A., Peralta, D., Perret, S., ... & Guerrot, C. (2022). Tracing the origin of lithium in Li-ion batteries using lithium isotopes. Nature communications, 13(1), 1-10.

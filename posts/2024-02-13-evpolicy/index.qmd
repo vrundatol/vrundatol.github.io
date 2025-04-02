@@ -1,0 +1,54 @@
+---
+title: "Policy Analysis: CA SB 615 Vehicle Traction Bill"
+subtitle: "ESM-241: Environmental Politics & Policy"
+description: "Support for EV battery End-of-Life Management"
+author:
+  - name: Vrunda Tol
+    url: https://vrundatol.github.io/
+date: 02-13-2024
+categories: [Circularity, Industrial Ecology, Critical Minerals] # self-defined categories
+citation: 
+  url: https://vrundatol.github.io/posts/2024-02-13-evpolicy/ 
+image: preview-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Title: Support for the CA SB 615 Vehicle Traction Bill\*\*
+
+## Issue Being Addressed
+
+California is a global leader in EV deployment. It is now home to over one million plug-in EVs and motorcycles. In December 2020, Governor Newsom issued an Executive Order setting a goal that all new passenger vehicles sold in California be ZEVs (Zero Emission Vehicles) by 2035 and heavy-duty vehicle fleets be ZEVs by 2045. The EV batteries are under warranty for up to eight years of their lifespan of 10-15 years. Automotive OEMs (Original Equipment Manufacturers) are required to recapture the vehicle traction batteries for repair or replacement only if they are within the warranty period. If the batteries are outside the warranty period, they are either repurposed or recycled depending on their condition by individual shops, dealerships, auto-dismantlers, and recyclers. No regulations exist for the batteries outside their warranty period. They are categorized as hazardous waste and are managed by the Department of Toxic Substances Control of California. EV batteries have the potential to harm human and environmental health if they leak into the environment instead of being properly disposed of.
+
+## Existing Policy Landscape
+
+The Responsible Battery Recycling Act of 2022 requires producers to establish a stewardship program for the collection and recycling of batteries. This Act does not cover vehicle batteries. In 2018, AB 2832 established a Lithium-Ion Battery Recycling Advisory Group to make policy recommendations to the Legislature to achieve a 100% rate of reuse or recycling for lithium-ion car batteries in the State. SB 615 establishes a program to ensure EV batteries are properly managed at every stage of their lives and are put to their highest and best use by requiring all EV batteries to be recycled at the end of their useful life.1 This measure will ensure those who handle batteries have a clear understanding of their roles and responsibilities. This bill puts a direct responsibility on the Vehicle Traction Battery Suppliers in California.
+
+## Policy Change
+
+The bill has been passed in the California Senate with a 100% majority. It is currently under consideration by the Environmental Safety and Toxic Materials Committee in the Assembly. Auto-dismantlers, repair dealerships, and recyclers will receive a supply boost in their business if the bill gets passed. The bill presents an opportunity for the EV industry to drive down costs of future domestic battery production with recycling and pass those savings to consumers. It will give rise to partnerships between OEMs, recyclers, and auto-dismantlers for efficient and safe execution. Ultimately, it will accelerate the transition to clean transportation and support the Zero Emission Vehicle Goals set by Governor Newsom.
+
+## Political Forces
+
+The central ideas influencing this policy are effective management of hazardous battery waste, ownership to manufacturers, a resilient domestic value chain of raw materials, and an advance in the clean energy transition. The interest groups supporting these ideas for this policy are clean transportation coalitions (CALSTART), and non-profit organizations advocating for hazardous waste management (California Against Waste), circular economy (National Stewardship Action Council), and transition to renewable energy and EVs (Climate Reality Project, Plug-in America). These interest groups openly advocate for this policy and educate electorates about its core ideas. OEMs are most important in executing this policy. Some of the OEMs, like Volkswagen and Tesla, have demonstrated strong willingness through their partnerships with recyclers like Redwood Materials. There is no opposition recorded publicly for this policy by any institution.
+
+The pivotal decision-makers for this policy are the California Assembly Medians Joaquin Arambula and Mike Gipson (both with LCV scores of 70). A possible argument against this policy is that it is not an urgent issue for the estimated investment of \$643000. EV batteries in the market are expected to reach end-of-life by 2030. Advocacy by the interest groups emphasizes that policy action needs to prepare the system now to avoid overwhelming environmental issues in the future. The Environmental Safety and Toxic Materials Committee will most likely rule in favor of this policy considering the health hazards at stake. The policy will succeed once it receives a majority in the California Assembly.
+
+**Citations:**
+
+1.  Office of Senate Floor Analyses, Senate Rules Committee, Third Reading[EV_EPR_CA_SB615_Senate_Floor_Analyses.pdf](https://d12v9rtnomnebu.cloudfront.net/diveimages/EV_EPR_CA_SB615_Senate_Floor_Analyses.pdf)
+
+2.  Allen, B., & Min, D. (2022, September 16). California AB2440: 2021-2022: Regular session. LegiScan. [Bill Text: CA AB2440 \| 2021-2022 \| Regular Session \| Chaptered \| LegiScan](https://legiscan.com/CA/text/AB2440/2021)
+
+3.  Allen, B., & Min, D. (2023, April 12). California SB615: 2022-2023: Regular session. LegiScan.[CA SB615 \| 2023-2024 \| Regular Session \| LegiScan](https://legiscan.com/CA/bill/SB615/2023)
+
+4.  Public policy. CALSTART. (2023, August 22). [Public Policy - CALSTART](https://calstart.org/public-policy/)
+
+5.  SB 615 (Allen). Californians Against Waste. (n.d.). [SB 615 (Allen)](https://www.cawrecycles.org/sb615-allen)
+
+6.  Legislation: National Stewardship Action Council. NSAC. (n.d.). [Legislation \| National Stewardship Action Council](https://www.nsaction.us/legislation)
+
+7.  Legislative & Policy. Climate Reality LA. (n.d.). [Legislative & Policy — Climate Reality LA](https://www.laclimatereality.org/activist)
+
+8.  Advocacy & Policy. Plug In America. (2023, March 16). [Advocacy & Policy - Plug In America](https://pluginamerica.org/policy/)
+
+9.  Update on Redwood’s California EV Battery Recycling Program. (2023, December 15). [Update on Redwood's California EV Battery Recycling Program](https://www.redwoodmaterials.com/news/update-california-ev-battery-recycling-program/)
